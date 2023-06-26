@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Awadh Yadav</h1>
 <h3 align="center">A passionate Programmer from India.</h3>
-<img align="center" width=300 alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="right" width=300 alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgc9&label=Profile%20views&color=0e75b6&style=flat" alt="kartikgc9" /> </p>
 
