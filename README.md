@@ -1,4 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikgc9&" alt="kartikgc9" /></p>
 <h1 align="center">Hi 👋, I'm Kartik Awadh Yadav</h1>
 <h3 align="center">A passionate Programmer from India.</h3>
 
