@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Web Dev & App Dev**
 
-- 📫 How to reach me **kyadav_be22@gmail.com**
+- 📫 How to reach me **kyadav_be22@thapar.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DWVBvZ7hSh_UyFSaDnCMvb1P2LLIG8ST/view?usp=drive_link](https://drive.google.com/file/d/1DWVBvZ7hSh_UyFSaDnCMvb1P2LLIG8ST/view?usp=drive_link)
 
