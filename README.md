@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Kartik Yadav 👋
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height = "30px"> -->
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssahibsingh&label=Profile%20views&color=1c87ca&style=flat" alt="ssahibsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikgc9&label=Profile%20views&color=1c87ca&style=flat" alt="Kartikgc9" /> </p>
 
 <h2>About Me🧑🏼‍💻</h2>
 
@@ -57,11 +57,11 @@
 ## Stats📈
 
 <p align="center">
-<!-- <img width="88%" src="https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
-<!-- <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=ssahibsingh&theme=react-dark&hide_border=true">
-<!-- <img width="88%" src="https://github-readme-activity-graph.ssahibsingh.repl.co/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
-<img width="40%" src="https://github-readme-stats-ssahibsingh.vercel.app/api/top-langs/?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="ssahibsingh" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="ssahibsingh" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=ssahibsingh&theme=react&hide_border=true&background=0D1117" alt="ssahibsingh" />
+<!-- <img width="88%" src="https://activity-graph.herokuapp.com/graph?username=Kartikgc9&theme=react-dark&hide_border=true"> -->
+<!-- <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kartikgc9&theme=react-dark&hide_border=true"> -->
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikgc9&theme=react-dark&hide_border=true">
+<!-- <img width="88%" src="https://github-readme-activity-graph.Kartikgc9.repl.co/graph?username=Kartikgc9&theme=react-dark&hide_border=true"> -->
+<img width="40%" src="https://github-readme-stats-Kartikgc9.vercel.app/api/top-langs/?username=Kartikgc9&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="Kartikgc9" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartikgc9&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="Kartikgc9" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=Kartikgc9&theme=react&hide_border=true&background=0D1117" alt="Kartikgc9" />
 </p>
