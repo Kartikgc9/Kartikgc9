@@ -14,7 +14,7 @@
     <li>📫 Reach me  at <strong>kartikawadh2004yadav@gmail.com</strong></li>
     <li>🔭 I’m currently working on <a href="https://github.com/Kartikgc9/Data-Scrapping-Projects" >Data Scrapping</a></li>
     <li>👨‍💻 All of my projects are available <a href="https://Kartigc9.github.io">here</a></li>
-    <li>📄 Know about my experiences <a href="https://ssahibsingh.github.io/resume">here</a></li>
+    <li>📄 Know about my experiences <a href="file:///C:/Users/kartik%20awadh%20yadav/OneDrive/Desktop/Resumeoriginal.pdf">here</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
