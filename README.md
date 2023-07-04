@@ -13,7 +13,7 @@
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Electronics Engineering</strong></li>
     <li>📫 Reach me  at <strong>kartikawadh2004yadav@gmail.com</strong></li>
     <li>🔭 I’m currently working on <a href="https://github.com/Kartikgc9/Data-Scrapping-Projects" >Data Scrapping</a></li>
-    <li>👨‍💻 All of my projects are available <a href="https://Kartigc9.github.io">here</a></li>
+    <li>👨‍💻 All of my projects are available <a href="https://github.com/Kartikgc9?tab=repositories">here</a></li>
     <li>📄 Know about my experiences <a href="https://github.com/Kartikgc9/Kartikgc9/blob/main/Resumeoriginal.pdf">here</a></li>
 </ul>
 
