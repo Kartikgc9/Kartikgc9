@@ -14,7 +14,7 @@
     <li>📫 Reach me  at <strong>kartikawadh2004yadav@gmail.com</strong></li>
     <li>🔭 I’m currently working on <a href="https://github.com/Kartikgc9/Data-Scrapping-Projects" >NLP</a></li>
     <li>👨‍💻 All of my projects are available <a href="https://github.com/Kartikgc9?tab=repositories">here</a></li>
-    <li>📄 Know about my experiences <a href="https://github.com/Kartikgc9/Kartikgc9/blob/main/Resumeoriginal.pdf">here</a></li>
+    <li>📄 Know about my experiences <a href="Resume-Final.pdf">here</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
