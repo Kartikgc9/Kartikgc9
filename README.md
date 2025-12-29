@@ -1,14 +1,55 @@
 <div align="center">
 
-# 🤖 KARTIK AWADH YADAV
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,12&height=200&section=header&text=KARTIK%20AWADH%20YADAV&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Deep%20Learning%20Specialist%20|%20NLP%20Researcher&descSize=20&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%A7%A0+AI+%2F+ML+Engineer+%7C+Deep+Learning+Specialist;%F0%9F%93%9A+Natural+Language+Processing+Researcher;%F0%9F%94%A5+Building+Intelligent+Systems+with+Neural+Networks;%E2%9A%A1+Transformers+%7C+LLMs+%7C+Generative+AI" alt="Typing Animation" />
+<!-- Multi-line Animated Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=🧠+AI+%2F+ML+Engineer+•+Deep+Learning+Specialist;📚+Natural+Language+Processing+Researcher;🔥+Building+Intelligent+Systems+with+Neural+Networks;⚡+Transformers+•+LLMs+•+RAG+•+Generative+AI;🎯+Electronics+Engineering+%40+Thapar+Institute" alt="Typing Animation" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Kartikgc9&label=AI%20Visitors&color=blueviolet&style=for-the-badge)](https://github.com/Kartikgc9)
-[![GitHub Followers](https://img.shields.io/github/followers/Kartikgc9?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue)](https://github.com/Kartikgc9)
-[![Email](https://img.shields.io/badge/EMAIL-kartikawadh2004yadav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikawadh2004yadav@gmail.com)
+<!-- Animated Badges Row 1 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kartikgc9&label=Neural%20Network%20Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kartikgc9?style=for-the-badge&logo=github&logoColor=white&labelColor=232323&color=0066ff&label=AI%20Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/FOCUS-Large%20Language%20Models-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
+</p>
+
+<!-- Animated Badges Row 2 -->
+<p align="center">
+  <a href="mailto:kartikawadh2004yadav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kartikawadh2004yadav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/🎓%20TIET-Electronics%20Engineering-00C853?style=for-the-badge" alt="Education" />
+  <img src="https://img.shields.io/badge/⚡%20Status-Building%20AI%20Solutions-FFD700?style=for-the-badge" alt="Status" />
+</p>
+
+<!-- Animated Badges Row 3 - Tech Focus -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/🔥-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/⚡-LangChain-121212?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+<!-- Social Connection Badges -->
+<p align="center">
+  <a href="https://github.com/Kartikgc9">
+    <img src="https://img.shields.io/badge/GitHub-Kartikgc9-181717?style=social&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Kartikgc9?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-All%20Repositories-blue?style=social&logo=github" alt="Projects" />
+  </a>
+  <a href="mailto:kartikawadh2004yadav@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-red?style=social&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
 
