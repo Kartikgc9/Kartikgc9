@@ -148,43 +148,13 @@ Reach out for AI/ML projects 📨 <sup>Always open to learning and building toge
 
 ## 📊 GitHub Statistics
 
+<!-- Based on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Kartik's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Kartikgc9&show_icons=true&count_private=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&show_icons=true&border_color=00d9ff&border_radius=10" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Kartik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikgc9&langs_count=8&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&show_icons=true&border_color=00d9ff&border_radius=10" height="192px"/>
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Kartikgc9&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kartik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikgc9&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages represent the languages in my public repositories and don't reflect experience or skill level.
-</p>
-
-<br/>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Kartik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikgc9&custom_title=Kartik's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=00d9ff&area=true&hide_border=true" />
-  </a>
-</p>
-
-<br/>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikgc9&theme=react&bg_color=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="Kartik's GitHub Streak" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Trophy Section -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kartikgc9&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Kartik's Trophies" />
-  </a>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <br/>
